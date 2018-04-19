@@ -26,13 +26,15 @@ path.cell {
 }
 
 .land {
-  fill: none;
-  stroke: lightgrey;
+  fill: #94D0FF;
+  stroke: black;
+  stroke-width: 2;
 }
 
 .state-boundary {
   fill: none;
-  stroke: lightgrey;
+  stroke: black;
+  stroke-width: 2;
 }
 
 #cells.voronoi path.cell {
